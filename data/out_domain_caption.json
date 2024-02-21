@@ -1,0 +1,602 @@
+[
+    {
+        "img": "GCC_train_000591293.jpg",
+        "caption": "staff members sit in the office and drinking your morning coffee .",
+        "instruction": "describle the image in detail",
+        "answer": "A male staff member and a female staff member are talking in the office. The male staff member is wearing a checked shirt and holding a cup of coffee in his hand. There is a laptop on the table in front of them. The office is decorated with green plants."
+    },
+    {
+        "img": "GCC_train_001168665.jpg",
+        "caption": "dining room sitting area - country homes for sale and luxury real estate including horse farms and property in the areas",
+        "instruction": "describle the image in detail",
+        "answer": "This is a dining room sitting area with three sofas. There is a red pillow on the middle sofa, and each of the other sofas has an orange pillow. There are two cupboards on each side of the sofa in the middle, with a table lamp on each of them."
+    },
+    {
+        "img": "GCC_train_001705626.jpg",
+        "caption": "actor and tv actor is seen on the streets .",
+        "instruction": "describle the image in detail",
+        "answer": "A woman holding a little girl is holding an umbrella for her. The woman is wearing a brown coat, while the little girl is wearing a red coat and a blue skirt. The woman was carrying a brown satchel and wearing black boots."
+    },
+    {
+        "img": "GCC_train_001859469.jpg",
+        "caption": "pictured at the event in association with festival were people .",
+        "instruction": "describle the image in detail",
+        "answer": "People were pictured at the event in association with festival. In the middle of the picture are two women. The woman on the left is wearing a black dress, while the woman on the right is wearing a blue dress and a black coat."
+    },
+    {
+        "img": "GCC_train_001923951.jpg",
+        "caption": "old piano gutted and repurposed into a computer desk",
+        "instruction": "describle the image in detail",
+        "answer": "An old piano are gutted and repurposed into a computer desk. There is a chair in front of the computer desk. There is a monitor, a keyboard, and many baskets on the computer desk. There is a desk lamp and several photos on the top of the computer desk."
+    },
+    {
+        "img": "GCC_train_002750198.jpg",
+        "caption": "property image # country house m from the center of unesco world heritage site with internet , pool , washing machine",
+        "instruction": "describle the image in detail",
+        "answer": "This is a well decorated house in the countryside. There are two sofas with several pillows in the house. There is a cabinet next to the sofa, on which is a desk lamp. There are several trees and colorful flowers outside the window."
+    },
+    {
+        "img": "GCC_train_000322658.jpg",
+        "caption": "attractive young business woman working in the stylish office using laptop while sitting at the office table .",
+        "instruction": "describle the image in detail",
+        "answer": "An attractive young business woman is working in the stylish office using laptop while sitting at the office table. This woman is wearing a black spotted white shirt. The office is decorated with many green plants."
+    },
+    {
+        "img": "GCC_train_000436290.jpg",
+        "caption": "children at preschool on the lower east side",
+        "instruction": "describle the image in detail",
+        "answer": "There are eight children gathering happily in the room. Two boys wearing yellow hats were wearing blue striped white shirts and dark blue checked shirts, respectively.There is a bookshelf behind them, filled with children's books."
+    },
+    {
+        "img": "GCC_train_000651662.jpg",
+        "caption": "the formal dining room is surrounded by evergreens outside .",
+        "instruction": "describle the image in detail",
+        "answer": "This is a formal dining room surrounded by evergreens outside. In the middle of the room is a table and several chairs. There is a pot of flowers on the table. The wall is pink with several windows."
+    },
+    {
+        "img": "GCC_train_001681287.jpg",
+        "caption": "shopping area inside one of the complex buildings",
+        "instruction": "describle the image in detail",
+        "answer": "This is a three story shopping center. Several escalators and two vertical elevators connect each floor. There are many merchants on each floor."
+    },
+    {
+        "img": "GCC_train_001749712.jpg",
+        "caption": "choosing a color theme for the grey living room is one of the first steps when redecorating",
+        "instruction": "describle the image in detail",
+        "answer": "This is a bright gray themed living room. There is a brown sofa and several white pillows on it in the middle of the living room. Behind the sofa is a table surrounded by several white chairs."
+    },
+    {
+        "img": "GCC_train_001760737.jpg",
+        "caption": "a bedroomed bungalow with stunning sea views",
+        "instruction": "describle the image in detail",
+        "answer": "This is a small bedroom with white wall. There is a small bed with blue checkered sheets in the corner of the wall. Next to the bed is a bedside table with a small lamp on it. There is a small mirror across from the bed."
+    },
+    {
+        "img": "GCC_train_001885993.jpg",
+        "caption": "example of a transitional subway tile and white tile freestanding bathtub design",
+        "instruction": "describle the image in detail",
+        "answer": "This is a bathroom with a white bathtub. Opposite the bathtub is a window with a tree outside. There is a painting hanging on the wall above the bathtub."
+    },
+    {
+        "img": "GCC_train_001914915.jpg",
+        "caption": "people cash in cans , plastic and glass bottles they have picked up out of garbage put out on the streets",
+        "instruction": "describle the image in detail",
+        "answer": "People cash in cans , plastic and glass bottles they have picked up out of garbage put out on the streets. Four people are wearing brown, pink, green, and pink clothes respectively. The man on the far right is carrying a pink satchel."
+    },
+    {
+        "img": "GCC_train_002062603.jpg",
+        "caption": "person & bar : enjoying a burger with my servers .",
+        "instruction": "describle the image in detail",
+        "answer": "Three friends are enjoying a wonderful time at the bar. Behind them is the bar, where there is a staff member and various drinks. There are two monitors hanging on the wall behind the bar."
+    },
+    {
+        "img": "GCC_train_002098589.jpg",
+        "caption": "lifeguards patrol the beach on friday",
+        "instruction": "describle the image in detail",
+        "answer": "This is a crowded seaside beach. In the center of the picture is an orange beach car. There are many colorful sunshades near the seaside. There are many tourists here on vacation on the beach."
+    },
+    {
+        "img": "GCC_train_002219925.jpg",
+        "caption": "bedroom with a redone chair , window seat , large pillows and a patent black ottoman",
+        "instruction": "describle the image in detail",
+        "answer": "This is a bedroom with a redone chair , window seat , large pillows and a patent black ottoman. The redone chair is in front of the window seat. In front of the large pillows is the patent black ottoman."
+    },
+    {
+        "img": "GCC_train_002271534.jpg",
+        "caption": "photograph of the crew of heavy bomber taken",
+        "instruction": "describle the image in detail",
+        "answer": "This is a photograph of the crew of heavy bomber. There are six soldiers in the photo. Three of them are wearing hats. Behind them is a heavy bomber."
+    },
+    {
+        "img": "GCC_train_002419928.jpg",
+        "caption": "the flag - draped coffin of the late senator is carried through the reception room and into the chamber of the building",
+        "instruction": "describle the image in detail",
+        "answer": "The flag draped coffin of the late senator is carried through the reception room and into the chamber of the building. Two soldiers carried the coffin, followed by many people."
+    },
+    {
+        "img": "GCC_train_002614416.jpg",
+        "caption": "an older man and woman stand in an old hospital room",
+        "instruction": "describle the image in detail",
+        "answer": "An older man and woman are talking in an old hospital room. The old woman is wearing a red coat. The old man is wearing a black suit. In front of them was a white hospital bed. There are some medical equipment and supplies hanging by the bed."
+    },
+    {
+        "img": "GCC_train_002711985.jpg",
+        "caption": "having fun at the karaoke .",
+        "instruction": "describle the image in detail",
+        "answer": "Two girls are having fun at the karaoke. They are both dressed in black. The girl without glasses is making a victory sign. The wall behind them is gray."
+    },
+    {
+        "img": "GCC_train_000027831.jpg",
+        "caption": "a general view of dressing room prior the match .",
+        "instruction": "describle the image in detail",
+        "answer": "It is a photo of a dressing room prior the match. There are 10 yellow jerseys and 1 white jersey hanging on the wall. In the middle of this room is a table with many yellow jerseys."
+    },
+    {
+        "img": "GCC_train_000160714.jpg",
+        "caption": "skyscraper and the world globe",
+        "instruction": "describle the image in detail",
+        "answer": "This is a photo of several skyscrapers. In front of the first skyscraper is a globe sculpture. Next to the skyscraper is a street."
+    },
+    {
+        "img": "GCC_train_000254640.jpg",
+        "caption": "here 's a full breakdown of how someone made their costume",
+        "instruction": "describle the image in detail",
+        "answer": "This is an outdoor cosplay exhibition. The person in the middle of the photo is wearing blue clothing and has blue hair. Behind him was a man with orange hair wearing a black suit, smiling and looking at him."
+    },
+    {
+        "img": "GCC_train_000634162.jpg",
+        "caption": "mountain biking above the town in the area",
+        "instruction": "describle the image in detail",
+        "answer": "This is a photo of three mountain cyclists. They are all carrying backpacks, wearing helmets, and wearing red, green, and blue cycling clothes respectively. They are sitting on a rock and having a rest."
+    },
+    {
+        "img": "GCC_train_002167047.jpg",
+        "caption": "a multi colored cottage apartment with a flag in the window",
+        "instruction": "describle the image in detail",
+        "answer": "The walls of this villa apartment are red, the flags on the windows are American flags, and there are potted plants in front of the windows"
+    },
+    {
+        "img": "GCC_train_002346710.jpg",
+        "caption": "singer has a go on the traditional bagpipes",
+        "instruction": "describle the image in detail",
+        "answer": "The singer was in a room wearing a black dress, purple pants, a Scottish flag, and a couch behind him"
+    },
+    {
+        "img": "GCC_train_002780353.jpg",
+        "caption": "vintage style image of biological species",
+        "instruction": "describle the image in detail",
+        "answer": "A leopard sits on the ground next to some tree branches"
+    },
+    {
+        "img": "GCC_train_002174469.jpg",
+        "caption": "a young man in a business suit at the empty outdoor basketball court",
+        "instruction": "describle the image in detail",
+        "answer": "A man in a suit is on a basketball court, crouched down with his hand pressed against a basketball"
+    },
+    {
+        "img": "GCC_train_002656926.jpg",
+        "caption": "front door colors with tips for choosing the right one",
+        "instruction": "describle the image in detail",
+        "answer": "Part of a house with a yellow door half open with a white frame and two potted plants next to the door"
+    },
+    {
+        "img": "GCC_train_001688121.jpg",
+        "caption": "an editorial look while horseback riding .",
+        "instruction": "describle the image in detail",
+        "answer": "A woman in a scarf and boots was leading a brown horse down the highway"
+    },
+    {
+        "img": "GCC_train_002446008.jpg",
+        "caption": "great image for depicting and promoting recycling in the office .",
+        "instruction": "describle the image in detail",
+        "answer": "In the office, a blue trash can sits on a table, and behind the trash can are some desks and stools"
+    },
+    {
+        "img": "GCC_train_002010094.jpg",
+        "caption": "person performs at concert theater",
+        "instruction": "describle the image in detail",
+        "answer": "A man in a black and white floral suit with a hat and mustache smiles from the stage"
+    },
+    {
+        "img": "GCC_train_000242995.jpg",
+        "caption": "the sea washes the stone beaches of the shore wide - shot , sunny day",
+        "instruction": "describle the image in detail",
+        "answer": "A seascape with a reef in front of the sea and green trees and mountains on the other side of the sea"
+    },
+    {
+        "img": "GCC_train_000654300.jpg",
+        "caption": "daddy with his little explorers .",
+        "instruction": "describle the image in detail",
+        "answer": "A man with a small child was walking on a rocky beach, with a wood behind him, and a part of the sea visible to the right"
+    },
+    {
+        "img": "GCC_train_001042079.jpg",
+        "caption": "all judges littered them with praise once they had completed their performance",
+        "instruction": "describle the image in detail",
+        "answer": "A silhouette on stage of a man and woman holding hands, four people with their backs to them"
+    },
+    {
+        "img": "GCC_train_002599258.jpg",
+        "caption": "birch forest in yellow colours in the park .",
+        "instruction": "describle the image in detail",
+        "answer": "A view of the woods, each tree very thin and straight and tall, with yellow leaves"
+    },
+    {
+        "img": "GCC_train_002278231.jpg",
+        "caption": "fruit carved baby in a pram \u2665",
+        "instruction": "describle the image in detail",
+        "answer": "A watermelon that has been cut and hollowed out is placed on a plate with some cut up fruits like strawberries, kiwis"
+    },
+    {
+        "img": "GCC_train_001663408.jpg",
+        "caption": "actor and film producer attend the premiere",
+        "instruction": "describle the image in detail",
+        "answer": "Two women standing together, the woman on the left is wearing purple, the woman in the back is wearing white, and behind them are movie posters"
+    },
+    {
+        "img": "GCC_train_002088212.jpg",
+        "caption": "make your own coastal side tables on the cheap !",
+        "instruction": "describle the image in detail",
+        "answer": "There was a little white table on the floor next to the bed with a lobster painted on it"
+    },
+    {
+        "img": "GCC_train_001098090.jpg",
+        "caption": "american football linebacker warms up prior to a game against sports team",
+        "instruction": "describle the image in detail",
+        "answer": "A rugby player standing on a sports field with a rugby ball"
+    },
+    {
+        "img": "GCC_train_002815252.jpg",
+        "caption": "airmen cheer as players walk out of the tunnel before sports team",
+        "instruction": "describle the image in detail",
+        "answer": "On one side of the fence, a group of fans in jerseys waved and cheered"
+    },
+    {
+        "img": "GCC_train_001912372.jpg",
+        "caption": "business people meeting to discuss the situation on the market",
+        "instruction": "describle the image in detail",
+        "answer": "A couple of guys in white were fingering a tablet with some data analysis on the table"
+    },
+    {
+        "img": "GCC_train_001760852.jpg",
+        "caption": "medics carry a soldier away from a rescue helicopter .",
+        "instruction": "describle the image in detail",
+        "answer": "A black-and-white photo of a group of men carrying a sick or wounded man, with some military equipment behind them"
+    },
+    {
+        "img": "GCC_train_002130598.jpg",
+        "caption": "is a medieval moated manor house , the architectural writer describes it asthe most",
+        "instruction": "describle the image in detail",
+        "answer": "A very large villa with a brown roof and thin, high windows, a circle of greenery around the side, a few seats and a lawn in front of it"
+    },
+    {
+        "img": "GCC_train_000326679.jpg",
+        "caption": "influential midfielder and coke engage in a synchronised battle for the ball",
+        "instruction": "describle the image in detail",
+        "answer": "On the soccer field, a player with a red jersey and a player with a white jersey are fighting over a soccer ball"
+    },
+    {
+        "img": "GCC_train_000218913.jpg",
+        "caption": "she looked on with an inflamed sense of curiosity !",
+        "instruction": "describle the image in detail",
+        "answer": "A black-and-white photo of a man and woman, naked, embracing face-to-face for sex"
+    },
+    {
+        "img": "GCC_train_000906177.jpg",
+        "caption": "carved statue of a troll , with exaggerated nose , outside shop",
+        "instruction": "describle the image in detail",
+        "answer": "A cartoon statue of a big-nosed soldier with a helmet smiling and holding a weapon"
+    },
+    {
+        "img": "GCC_train_002325464.jpg",
+        "caption": "the busy day has seen person treated to a cultural performance , a fishing trip and a tour of the island",
+        "instruction": "describle the image in detail",
+        "answer": "A man and woman in formal attire are walking on a patterned floor, and the man is waving"
+    },
+    {
+        "img": "GCC_train_002320698.jpg",
+        "caption": "corduroy sports equipment business worn from back in early 2000s .",
+        "instruction": "describle the image in detail",
+        "answer": "A very dated brown Adidas sits on the beige floor with what appears to be a box next to it"
+    },
+    {
+        "img": "GCC_train_000032198.jpg",
+        "caption": "tiger shark on a coral reef",
+        "instruction": "describe the image in detail",
+        "answer": "The sun shines through the deep blue seabed, and a tiger shark hovers over a coral reef.There is a small yellow fish not far above the coral reef.Other small fish are scattered all over the place, but they all stay away from the tiger shark."
+    },
+    {
+        "img": "GCC_train_000043002.jpg",
+        "caption": "writing desk i built , painted author with a stained top .",
+        "instruction": "describe the image in detail",
+        "answer": "There is a wooden table placed on the wooden floor with three items placed on the table.The leftmost object on the table is a flower pot with green grass growing.The object in the middle of the table is a white gift box.The object on the far right is a black typewriter"
+    },
+    {
+        "img": "GCC_train_000050745.jpg",
+        "caption": "under her skin - book # of the book series",
+        "instruction": "describe the image in detail",
+        "answer": "This picture is the cover of the book titled under her skin.On the cover, a man and a woman are hugging and kissing next to the car, with the vast blue sky and green grassland behind them. The car they're leaning against is blue, and the woman is wearing a red dress and red high heels."
+    },
+    {
+        "img": "GCC_train_000063714.jpg",
+        "caption": "my collection of rubber boots",
+        "instruction": "describe the image in detail",
+        "answer": "There are seven pairs of rubber boots.A total of five colors, namely blue, white, purple, green, black.These seven pairs of rubber boots are all long rubber boots, and they are high-heeled."
+    },
+    {
+        "img": "GCC_train_000078785.jpg",
+        "caption": "teenagers in a bowling alley",
+        "instruction": "describe the image in detail",
+        "answer": "There are three teenagers, they are very happy.Boy in blue shirt with blond hair looking at the camera smiling and holding a bowling ball.The two girls behind him are chatting happily. The girl on the left has long blonde hair and is wearing a pink dress, and the other girl is wearing a blue dress."
+    },
+    {
+        "img": "GCC_train_000124191.jpg",
+        "caption": "walk in the queen duvet",
+        "instruction": "describe the image in detail",
+        "answer": "This is a bed with two pillows and a large duvet over the pillows.The pattern of this large duvet is a forest with many green trees. One corner of the quilt is folded up to form a visual difference, and it appears that there is a forest in this quilt."
+    },
+    {
+        "img": "GCC_train_000177498.jpg",
+        "caption": "person sits to fill out her ballot at the community center -- once the - room schoolhouse -- as animal , vies for her attention .",
+        "instruction": "describe the image in detail",
+        "answer": "In a house full of light, a person is sitting with her back to her side, and a dog is watching her. This house has two windows without curtains, and a desk is placed under the window for use, which can be used for writing, office and so on. There were also two chairs, one she was sitting on, and the other was unused by the door."
+    },
+    {
+        "img": "GCC_train_000208427.jpg",
+        "caption": "politician is finally persuaded to join government office on the dance floor",
+        "instruction": "describe the image in detail",
+        "answer": "A group of people are dancing happily. A short-cut man in a white shirt stood in the middle, facing a group of children in flowered clothes dancing, and behind him were young students in black suits. There is also a black woman on the far right who is wearing a dress."
+    },
+    {
+        "img": "GCC_train_000215977.jpg",
+        "caption": "kitchen with large center island in the floor plan",
+        "instruction": "describe the image in detail",
+        "answer": "This is a clean, spacious and fully equipped kitchen.The kitchen cabinets are black wood, very atmospheric. It also has range hood, refrigerator, stove, knives and so on. There is a dining table in front of the faucet, and there are 4 stools in total."
+    },
+    {
+        "img": "GCC_train_000222621.jpg",
+        "caption": "turn your scrap wood into beautiful wall decor with this diy !",
+        "instruction": "describe the image in detail",
+        "answer": "The whole is decorated in white tones, with a hollow round table in the shape of M placed in the center, surrounded by several candle holders of different lengths, and a black holder beside the round table for embellishment, making the picture not monotonous."
+    },
+    {
+        "img": "GCC_train_000390733.jpg",
+        "caption": "we 've been experimenting with our children , ages and 4 , on snowshoes for a few years .",
+        "instruction": "describe the image in detail",
+        "answer": "Adults take children to learn to ski. They are in a vast snow field, wearing ski suits and glasses, the children are very happy. The adult wears a red ski suit, and the three children wear blue, yellow and red ski suits respectively."
+    },
+    {
+        "img": "GCC_train_000506826.jpg",
+        "caption": "tennis racket painted in the colors of the flag different countries .",
+        "instruction": "describe the image in detail",
+        "answer": "There are 10 rackets in national colors in the picture. Among them, the rackets of Germany and England are placed crosswise, and the rackets of other national colors are neatly placed under the rackets of England and Germany, including Italy, Japan, Norway and so on."
+    },
+    {
+        "img": "GCC_train_000524439.jpg",
+        "caption": "players participate in a drill during the first day of football practice early monday morning .",
+        "instruction": "describe the image in detail",
+        "answer": "There are a total of four players in the picture doing high leg lifts, and one of the values shows a little bit of the shoe. The No. 62 player at the front and the No. 16 player at the back have black skin. There is also a No. 14 player whose body can be seen. They all wear black ball caps."
+    },
+    {
+        "img": "GCC_train_001721037.jpg",
+        "caption": "man smoking a cigar near a vintage car",
+        "instruction": "describe the image in detail",
+        "answer": "There is a classic car in front of the house, and a man is smoking a cigar on the balcony of the house. The man in his shirt leaned against the railing, and the old car was green."
+    },
+    {
+        "img": "GCC_train_001965247.jpg",
+        "caption": "this reminds me of a style nursery .",
+        "instruction": "describe the image in detail",
+        "answer": "This is a cozy baby room in shades of green. There is a crib in the room. There are many small dolls in the crib, and a baby is sitting in it. The bookcase is full of books, there is an open red paper umbrella in the upper left corner of the house, and there is a white locker. The lighting in the room is very warm, and there are many decorations on the wall."
+    },
+    {
+        "img": "GCC_train_002081287.jpg",
+        "caption": "four grinning ice hockey team stand together under the stage lights .",
+        "instruction": "describe the image in detail",
+        "answer": "Three men and one woman faced the camera, leaning on each other's shoulders and standing on the stage for a group photo. The man in black on the far left is holding his hands in front of him, the woman is wearing a black dress, and the man on the far right is holding a guitar bag and putting his hand on the woman's arm."
+    },
+    {
+        "img": "GCC_train_002086401.jpg",
+        "caption": "police in riot gear confront fans before the qualifying match .",
+        "instruction": "describe the image in detail",
+        "answer": "Crowds of various identities gathered at the competition site. The audience stood up in the auditorium and watched the confrontation between the police and the fans on the field. The reporter was holding a camera to take pictures. The police signaled the fans to calm down, and the players stood aside to closely monitor the situation."
+    },
+    {
+        "img": "GCC_train_002109357.jpg",
+        "caption": "built - ins in the library were reproduced using reclaimed oak , and fireplaces were rebuilt .",
+        "instruction": "describe the image in detail",
+        "answer": "This is a library with bookcases built into the walls reaching to the ceiling and filled with books. Cabinets are placed on both sides of the wall, with a mural in the middle and a fireplace below it. In the middle of the living room, there are two sofas facing each other, with a table in between."
+    },
+    {
+        "img": "GCC_train_002119235.jpg",
+        "caption": "this wedding cake is white with apricot filling with royal frosting covered in fondant with coral and burlap flowers !",
+        "instruction": "describe the image in detail",
+        "answer": "A floral studded three-tiered cake with a W on top is placed on a table. Each layer of the cake is surrounded by pearls. The stool behind the cake was misplaced and fell over. Further back is a garden with vast green grass."
+    },
+    {
+        "img": "GCC_train_002128164.jpg",
+        "caption": "dog owners converse on the esplanade",
+        "instruction": "describe the image in detail",
+        "answer": "A man and a woman each have a dog, and they are communicating. The guy is wearing orange, he is standing, his dog is a brown puppy, the girl is sitting in a vest, her dog is a black puppy. There are many trees around them."
+    },
+    {
+        "img": "GCC_train_002206857.jpg",
+        "caption": "the story of r & c",
+        "instruction": "describe the image in detail",
+        "answer": "The photo is a four-square grid, and there are four groups of people doing makeup and combing their hair. In the upper left corner, a woman in a floral dress sits at a dressing table with her hair combed by a man in a plaid shirt. In the lower left corner is a man in a plaid shirt applying makeup to a woman in a black dress, and in the upper right corner is a child."
+    },
+    {
+        "img": "GCC_train_002227729.jpg",
+        "caption": "politician and his wife walk outside after the inauguration ceremony",
+        "instruction": "describe the image in detail",
+        "answer": "Biden, in a black suit, and his wife, in a white business dress, walked down the steps, flanked by White House staff. The steps were covered with a red carpet."
+    },
+    {
+        "img": "GCC_train_002291277.jpg",
+        "caption": "ice hockey coach calls out to his team on the ice as ice hockey left winger",
+        "instruction": "describe the image in detail",
+        "answer": "On the ice hockey rink, the players and the coach sat off the court to watch the game. The coach shouted excitedly to the players on the court. One of the players who was resting off the court held the coach's hand. The other two players watched the coach, and the coach shouted excitedly."
+    },
+    {
+        "img": "GCC_train_002341509.jpg",
+        "caption": "room with a view : guests staying at the hotel looked out to see the vehicle dangling across an alleyway with its boot flapping open",
+        "instruction": "describe the image in detail",
+        "answer": "The hotel is surrounded by tall grass, and there is a trail between the grass and the hotel. A white car crashed into the hotel house, the trunk was opened, and the rear of the car was hanging in the air. The traffic police evacuated the crowd."
+    },
+    {
+        "img": "GCC_train_000453215.jpg",
+        "caption": "pop artist and celebrity attend show during fashion week .",
+        "instruction": "describe the image in detail",
+        "answer": "The three women applauded happily in the auditorium, and they exchanged information about the performance. The woman on the far right has her gray hair permed, her back is shaved and the front is combed back. The woman in the center is dressed in black and wears a black hat."
+    },
+    {
+        "img": "GCC_train_000053964.jpg",
+        "caption": "a mobile food stall with customers",
+        "instruction": "describle the image in detail",
+        "answer": "On the side of the road in the shade of trees, many people gather around a mobile food stall.four people are waiting in line to buy food,and some people are relaxing under the shade of trees"
+    },
+    {
+        "img": "GCC_train_000125242.jpg",
+        "caption": "author hands out a ticket for parking in bike lanes",
+        "instruction": "describle the image in detail",
+        "answer": "Near the road,many cars parked in the right location but a car parked in bike lanes.A police come to the car near the bicycles,and the author hands out a ticket for his illegal acts"
+    },
+    {
+        "img": "GCC_train_000138676.jpg",
+        "caption": "fans hold up signs during batting practice prior to the final game of career on sunday",
+        "instruction": "describle the image in detail",
+        "answer": "On the road many people hold a parade.Some people are laughing and moving forward,and someone in the middle even holds up signs writing 'GOODBYE DEREK AND THANK YOU' "
+    },
+    {
+        "img": "GCC_train_000214097.jpg",
+        "caption": "young caucasian man showing car key at the dealership",
+        "instruction": "describle the image in detail",
+        "answer": "At the dealership,a car parked behind and a young couple is in front of the screen.With car key in the man's hand,The young caucasian man is showing car key with his wife, and they laughed very happily"
+    },
+    {
+        "img": "GCC_train_000239745.jpg",
+        "caption": "person , southern rap artist , announcer and person of artist perform on stage",
+        "instruction": "describle the image in detail",
+        "answer": "On the stage infront of the lights,four men are performing their song. with singers singing and guitarists playing the guitar,everyone does their job,and the atmosphere at the scene is being driven"
+    },
+    {
+        "img": "GCC_train_000263181.jpg",
+        "caption": "person with the successful hunters and a recovered doe",
+        "instruction": "describle the image in detail",
+        "answer": "In the weeds sit two ladies and the doe.Two women are touching the doe,and are happy to witness the recovery of doe"
+    },
+    {
+        "img": "GCC_train_000361918.jpg",
+        "caption": "tv actor chats with guests during a nationwide dinner",
+        "instruction": "describle the image in detail",
+        "answer": "Many people gather at a table for a nationwide dinner. The man in suit is a tv acter,while he is chating with others seriously,the guests are listening to him carefully"
+    },
+    {
+        "img": "GCC_train_000451687.jpg",
+        "caption": "men playing a game on a giant chess set",
+        "instruction": "describle the image in detail",
+        "answer": "Near the road is a woman and two men playing giant chess.The woman is going to enter the door,and two men are moving chess pieces,devoted to their chess game"
+    },
+    {
+        "img": "GCC_train_000558431.jpg",
+        "caption": "actors arrive at the 4th vip premiere night held",
+        "instruction": "describle the image in detail",
+        "answer": "In front of the wall is a man and woman.They arrive at the 4th vip premiere night held,shoulder each other,and are happy to meet each other"
+    },
+    {
+        "img": "GCC_train_000559542.jpg",
+        "caption": "volunteers prepare christmas day meals for the homeless",
+        "instruction": "describle the image in detail",
+        "answer": "Three women are making meals in a house.While two woman on the right are cutting vegetables,the woman on the left is busy doing other meals.They volunteer to prepare christmas day meals for the homeless"
+    },
+    {
+        "img": "GCC_train_000702210.jpg",
+        "caption": "on the open grasslands back to photo credit",
+        "instruction": "describle the image in detail",
+        "answer": "Under the blue sky are many people riding on the road to the vicinity of mountians.They are on the open grasslands back to photo credit,and the mountian whose upper part is filled with white snow is just in front of them"
+    },
+    {
+        "img": "GCC_train_000775496.jpg",
+        "caption": "person wags a finger and shouts at person and other officials at a meeting in chambers",
+        "instruction": "describle the image in detail",
+        "answer": "In chambers there is a meeting among many people sitting on the chair.While others listen to the man on the right wearing galsses carefully,the man wags a finger and shouts at person and other officials"
+    },
+    {
+        "img": "GCC_train_000782174.jpg",
+        "caption": "the bride laughs and the groom looks at her during a speech at a rural farm wedding",
+        "instruction": "describle the image in detail",
+        "answer": "At a rural farm wedding near the shade of trees,many people sit and laugh,with wine glass in front of them.The bride on the left smile naturally, and the groom in the middle looks at her"
+    },
+    {
+        "img": "GCC_train_001087549.jpg",
+        "caption": "how to dress like a russian in winter",
+        "instruction": "describle the image in detail",
+        "answer": "On the street of cold winter there are many people at the station and a woman on the right wearing thick clothes.The woman on the right wearing thick clothes trys to dress like a russian in winter and the people at the station are waiting for the bus to take them on"
+    },
+    {
+        "img": "GCC_train_001665411.jpg",
+        "caption": "loving young couple sitting on grass field",
+        "instruction": "describle the image in detail",
+        "answer": "Under the warm sun are a couple on the grassland.The couple are sitting on grass field,and laughs happily for the precious dating time"
+    },
+    {
+        "img": "GCC_train_001687421.jpg",
+        "caption": "students had a lunch time shouting match friday over person , a man who was living in a tree on campus",
+        "instruction": "describle the image in detail",
+        "answer": "On campus are the crowd gathering toghther.They are having a lunch time shouting match friday over a man living in a tree.while someone shows unhappy temper,someone seems very angry."
+    },
+    {
+        "img": "GCC_train_001841810.jpg",
+        "caption": "horse in a mountain pasture",
+        "instruction": "describle the image in detail",
+        "answer": "In a mountain pasture there is a horse in brown and a horse in white. With full grass near the forest the white horse is eating happily,while the brown horse is wondering on the grass"
+    },
+    {
+        "img": "GCC_train_002039799.jpg",
+        "caption": "tv personality and her twins have expanded their family since tv programme . the reality star welcomed her third daughter in february",
+        "instruction": "describle the image in detail",
+        "answer": "In the picture are a mother and her two daughters,one of which is blowing out birthday cake candles.The mother and her twins have expanded their family since tv programme,and is welcoming the third daughter in february"
+    },
+    {
+        "img": "GCC_train_002042102.jpg",
+        "caption": "players celebrate their goal during the league football match vs football team at the stadium",
+        "instruction": "describle the image in detail",
+        "answer": "The flag is blowing in the wind and the men are hugging together.The flag waving in the wind is blown for their wonderful performance and the men are celebrating their goal during the league football match"
+    },
+    {
+        "img": "GCC_train_002045110.jpg",
+        "caption": "athlete reacts after scoring his side 's first goal during the match",
+        "instruction": "describle the image in detail",
+        "answer": "In the football field,the man in yellow seems proud while the men in red seem depressed.After the yellow side's first goal during the match,the man in yellow is excited for the phased victory,and the men in red sigh for their failure"
+    },
+    {
+        "img": "GCC_train_002253690.jpg",
+        "caption": "hispanic parents with daughters eating from a tray of potato chips sitting in sofa while smiling and enjoying",
+        "instruction": "describle the image in detail",
+        "answer": "In the house the hispanic parents are sitting togther with their daughters,enjoying the food.While eating from a tray of potato chips sitting in sofa,they sit in a circle around the plate,smiling and enjoying"
+    },
+    {
+        "img": "GCC_train_002499857.jpg",
+        "caption": "actor and film scenes for television show",
+        "instruction": "describle the image in detail",
+        "answer": "On the road are three men riding the bicycles passing by and two men quarreling.They are acting a film for television show and the scene need the three cyclists to watch at the  quarrel between the two men in the middle"
+    },
+    {
+        "img": "GCC_train_002513208.jpg",
+        "caption": "strong winds and heavy rainfall brought down power lines across the region",
+        "instruction": "describle the image in detail",
+        "answer": "In the rain are two people holding up an umbrella,looking at the land on the other side of the sea.Due to strong winds and heavy rainfall,the two people has to hold up an umbrella together"
+    },
+    {
+        "img": "GCC_train_002597982.jpg",
+        "caption": "boys and girls flirting on a rooftop party",
+        "instruction": "describle the image in detail",
+        "answer": "On the rooftop are five people laughing together and few people looking at the sky.boys and girls are flirting on a rooftop party,while others relax here to comfort themselves"
+    },
+    {
+        "img": "GCC_train_002778199.jpg",
+        "caption": "person delivered a cool finish to give football team the lead over their rivals",
+        "instruction": "describle the image in detail",
+        "answer": "Under the nervous gaze of the audience, the player in green scored a goal.With the cool finish ball,the audience become excited,and the goalkeeper failed to withstand the pressure,losing the chance to recover lost points"
+    }
+]

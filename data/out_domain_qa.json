@@ -1,0 +1,602 @@
+[
+    {
+        "img": "GCC_train_000591293.jpg",
+        "caption": "staff members sit in the office and drinking your morning coffee .",
+        "instruction": "What is the color of the screen on the tabletop located behind the staff members?",
+        "answer": "The monitor on the table behind the staff members is black."
+    },
+    {
+        "img": "GCC_train_001168665.jpg",
+        "caption": "dining room sitting area - country homes for sale and luxury real estate including horse farms and property in the areas",
+        "instruction": "Could you describe the color of the carpet?",
+        "answer": "The carpet is white."
+    },
+    {
+        "img": "GCC_train_001705626.jpg",
+        "caption": "actor and tv actor is seen on the streets .",
+        "instruction": "Describe the color of the vehicle positioned to the right.",
+        "answer": "The car on the right is black."
+    },
+    {
+        "img": "GCC_train_001859469.jpg",
+        "caption": "pictured at the event in association with festival were people .",
+        "instruction": "Describe the attire of the man on the left.",
+        "answer": "The man on the left is wearing a blue shirt."
+    },
+    {
+        "img": "GCC_train_001923951.jpg",
+        "caption": "old piano gutted and repurposed into a computer desk",
+        "instruction": "What is the number of individuals captured in the largest picture?",
+        "answer": "There are six people in the largest photo."
+    },
+    {
+        "img": "GCC_train_002750198.jpg",
+        "caption": "property image # country house m from the center of unesco world heritage site with internet, pool, washing machine",
+        "instruction": "What is the current number of paintings displayed on the wall?",
+        "answer": "There are three paintings hanging on the wall."
+    },
+    {
+        "img": "GCC_train_000322658.jpg",
+        "caption": "attractive young business woman working in the stylish office using laptop while sitting at the office table .",
+        "instruction": "Which hue do the apple on the desk exhibit?",
+        "answer": "The apple on the desktop is green."
+    },
+    {
+        "img": "GCC_train_000436290.jpg",
+        "caption": "children at preschool on the lower east side",
+        "instruction": "How would you describe the hat being worn by the boy in the red and black checkered shirt?",
+        "answer": "The boy wearing a red and black checkered shirt is wearing a red hat."
+    },
+    {
+        "img": "GCC_train_000651662.jpg",
+        "caption": "the formal dining room is surrounded by evergreens outside .",
+        "instruction": "Can you tell me the number of pictures adorning the wall?",
+        "answer": "There are four pictures hanging on the wall."
+    },
+    {
+        "img": "GCC_train_001681287.jpg",
+        "caption": "shopping area inside one of the complex buildings",
+        "instruction": "What material was used to construct the roof of the shopping center?",
+        "answer": "The ceiling of the shopping center is made of glass."
+    },
+    {
+        "img": "GCC_train_001749712.jpg",
+        "caption": "choosing a color theme for the grey living room is one of the first steps when redecorating",
+        "instruction": "Identify the color of the cabinet positioned on the left side of the picture.",
+        "answer": "The cabinet on the left side of the picture is red."
+    },
+    {
+        "img": "GCC_train_001760737.jpg",
+        "caption": "a bedroomed bungalow with stunning sea views",
+        "instruction": "Can you identify the hue of the blossoms on the white cabinet?",
+        "answer": "The flowers on the white cabinet are yellow."
+    },
+    {
+        "img": "GCC_train_001885993.jpg",
+        "caption": "example of a transitional subway tile and white tile freestanding bathtub design",
+        "instruction": "Identify the color of the towel draped on the bathtub rail.",
+        "answer": "The towel hanging on the bathtub is white."
+    },
+    {
+        "img": "GCC_train_001914915.jpg",
+        "caption": "people cash in cans , plastic and glass bottles they have picked up out of garbage put out on the streets",
+        "instruction": "Can you identify the product being advertised in the image on the right?",
+        "answer": "The picture on the right is an advertisement for Pepsi Cola."
+    },
+    {
+        "img": "GCC_train_002062603.jpg",
+        "caption": "person & bar : enjoying a burger with my servers .",
+        "instruction": "How would you describe the contents located in the bottom left corner of the picture?",
+        "answer": "In the bottom left corner of the picture is a brown paper bag."
+    },
+    {
+        "img": "GCC_train_002098589.jpg",
+        "caption": "lifeguards patrol the beach on friday",
+        "instruction": "What can be observed on the faraway horizon of the sea?",
+        "answer": "There is a sailboat on the distant sea surface."
+    },
+    {
+        "img": "GCC_train_002219925.jpg",
+        "caption": "bedroom with a redone chair , window seat , large pillows and a patent black ottoman",
+        "instruction": "In what hue are the drapes draped?",
+        "answer": "The curtains are white."
+    },
+    {
+        "img": "GCC_train_002271534.jpg",
+        "caption": "photograph of the crew of heavy bomber taken",
+        "instruction": "What is the total number of blades on the propeller of a heavy bomber aircraft?",
+        "answer": "The propeller of a heavy bomber has three blades."
+    },
+    {
+        "img": "GCC_train_002419928.jpg",
+        "caption": "the flag - draped coffin of the late senator is carried through the reception room and into the chamber of the building",
+        "instruction": "What is the total number of paintings in the reception room?",
+        "answer": "There are two portraits hanging in the reception room."
+    },
+    {
+        "img": "GCC_train_002614416.jpg",
+        "caption": "an older man and woman stand in an old hospital room",
+        "instruction": "What can be seen in the uppermost left corner of the picture?",
+        "answer": "There is a clock hanging on the wall in the upper left corner of the picture."
+    },
+    {
+        "img": "GCC_train_002711985.jpg",
+        "caption": "having fun at the karaoke .",
+        "instruction": "What is the total number of spectacles located in their immediate vicinity?",
+        "answer": "There are two glasses in front of them."
+    },
+    {
+        "img": "GCC_train_000027831.jpg",
+        "caption": "a general view of dressing room prior the match .",
+        "instruction": "What is the reason for the presence of a white jersey alongside the numerous yellow jerseys?",
+        "answer": "It may belong to the goalkeeper, whose jersey is often different from that of other teammates."
+    },
+    {
+        "img": "GCC_train_000160714.jpg",
+        "caption": "skyscraper and the world globe",
+        "instruction": "Identify the atmospheric condition in the image?",
+        "answer": "The weather in the picture is cloudy."
+    },
+    {
+        "img": "GCC_train_000254640.jpg",
+        "caption": "here 's a full breakdown of how someone made their costume",
+        "instruction": "Can you identify the hue of the edifice behind the group of people?",
+        "answer": "The building behind the crowd is red."
+    },
+    {
+        "img": "GCC_train_000634162.jpg",
+        "caption": "mountain biking above the town in the area",
+        "instruction": "What atmospheric conditions are depicted in the image?",
+        "answer": "The weather in the picture is cloudy."
+    },
+    {
+        "img": "GCC_train_002467982.jpg",
+        "caption": "a perfect mess print of pencil drawing by tv actor",
+        "instruction": "What is depicted in the pencil illustration?",
+        "answer": "the pencil drawing shows a girl's head"
+    },
+    {
+        "img": "GCC_train_000789397.jpg",
+        "caption": "smiling boy lying on the massage table",
+        "instruction": "Can you identify the current activity of the young male?",
+        "answer": "the boy is being massaged"
+    },
+    {
+        "img": "GCC_train_002143028.jpg",
+        "caption": "basketball center # shoots the ball against basketball team duringbasketball league .",
+        "instruction": "Prompt: In what color is the attire of the person who is on the mound?",
+        "answer": "The man who's pitching is wearing a green jersey."
+    },
+    {
+        "img": "GCC_train_000999141.jpg",
+        "caption": "vintage national drawing the man is playing on the harp .",
+        "instruction": "Describe the hue of the backdrop in this image?",
+        "answer": "the background of this drawing is yellow"
+    },
+    {
+        "img": "GCC_train_000305317.jpg",
+        "caption": "the gift bag is hidden on branches of a new year tree",
+        "instruction": "What is the quantity of present pouches hanging from the branches of the New Year tree?",
+        "answer": "number of gift bags on branches of the new year tree is two"
+    },
+    {
+        "img": "GCC_train_001715638.jpg",
+        "caption": "shopping for musical instrument company is a family affair !",
+        "instruction": "Can you identify the musical device located beside the two men in the image?",
+        "answer": "The instrument next to these two is a piano"
+    },
+    {
+        "img": "GCC_train_001937119.jpg",
+        "caption": "film director from the film poses for a portrait during festival .",
+        "instruction": "What is the color of the wall positioned behind this man?",
+        "answer": "The wall behind this man is yellow"
+    },
+    {
+        "img": "GCC_train_001716897.jpg",
+        "caption": "us county from the water",
+        "instruction": "What is the amount of vessels captured in the image?",
+        "answer": "only one ship is in the picture"
+    },
+    {
+        "img": "GCC_train_002068476.jpg",
+        "caption": "senior man holding his groceries in a wheelchair as he is pushed along the road by a female carer after going shopping",
+        "instruction": "In which shade is the outfit of this gentleman?",
+        "answer": "This man wears black."
+    },
+    {
+        "img": "GCC_train_001986644.jpg",
+        "caption": "grime artist , who made his first - team debut for united as a teenager , rejected a new role under soccer player",
+        "instruction": "Locate the football.",
+        "answer": "the soccer ball is in the air"
+    },
+    {
+        "img": "GCC_train_001067015.jpg",
+        "caption": "traffic was reduced to lane on southbound during the morning commute .",
+        "instruction": "What's the current atmospheric condition like?",
+        "answer": "the weather is raining."
+    },
+    {
+        "img": "GCC_train_000892419.jpg",
+        "caption": "low point of view of a wheeler driving away .",
+        "instruction": "What type of terrain is this wheeler currently riding over?",
+        "answer": "This wheeler is driving on the snow."
+    },
+    {
+        "img": "GCC_train_001734412.jpg",
+        "caption": "straw hat and sunglasses on a white background",
+        "instruction": "Identify the hue of the straw hat appearing on the left-hand side.",
+        "answer": "The color of the straw hat on the left is fawn"
+    },
+    {
+        "img": "GCC_train_000240520.jpg",
+        "caption": "hippopotamus , zebras and wildebeest near a water hole",
+        "instruction": "What can be found adjacent to the river?",
+        "answer": "It's the prairie."
+    },
+    {
+        "img": "GCC_train_000095274.jpg",
+        "caption": "singer at the piano in a leather jacket performing at the 100th birthday tribute to film score artist",
+        "instruction": "Can you identify the photographic technique used in this image?",
+        "answer": "The style of this photo is black and white."
+    },
+    {
+        "img": "GCC_train_000436944.jpg",
+        "caption": "football player puts the ball out of reach of football player",
+        "instruction": "Identify the color of the shirt worn by the person positioned on the left side.",
+        "answer": "the guy on the left wears red"
+    },
+    {
+        "img": "GCC_train_002621657.jpg",
+        "caption": "in their small living space , person and her children play with their dogs along with others who live in the building .",
+        "instruction": "In what shade is the dog's fur?",
+        "answer": "it's yellow"
+    },
+    {
+        "img": "GCC_train_001746819.jpg",
+        "caption": "illustration of a lion and the wooden signboard in a dark neighborhood",
+        "instruction": "What lies beyond the majestic lion?",
+        "answer": "it's a tree"
+    },
+    {
+        "img": "GCC_train_000443794.jpg",
+        "caption": "take a look at this two - pair knee - high socks set today !",
+        "instruction": "What design is featured on the sock on the right?",
+        "answer": "The sock on the right has HelloKitty on it."
+    },
+    {
+        "img": "GCC_train_000439494.jpg",
+        "caption": "person - one of the most beautiful horses i 've had the privilege to see in person and pet !",
+        "instruction": "On what surface is the horse standing?",
+        "answer": "This horse is standing on top of the lawn."
+    },
+    {
+        "img": "GCC_train_000343399.jpg",
+        "caption": "person pulls his look together with a patchwork of tartan and check .",
+        "instruction": "Can you describe the scarf that the man is wearing?",
+        "answer": "the color of scarf is red"
+    },
+    {
+        "img": "GCC_train_000359135.jpg",
+        "caption": "making the most of it : a snowmobile pulls a man following on a snowboard through the streets",
+        "instruction": "Describe the hue of the snowmobile.",
+        "answer": "it's black"
+    },
+    {
+        "img": "GCC_train_000497592.jpg",
+        "caption": "herbs and spices in a glass jar with vintage style background and labels .",
+        "instruction": "What is the dominant color scheme in the picture?",
+        "answer": "it's black and white"
+    },
+    {
+        "img": "GCC_train_000581080.jpg",
+        "caption": "how to create a stunning fall flower arrangement on a dime",
+        "instruction": "How would you describe the hue of the vase?",
+        "answer": "it's white"
+    },
+    {
+        "img": "GCC_train_002217164.jpg",
+        "caption": "war memorial with wreaths of poppies - the village .",
+        "instruction": "How is this war memorial designed?",
+        "answer": "This war memorial is in the shape of a cross"
+    },
+    {
+        "img": "GCC_train_000032198.jpg",
+        "caption": "tiger shark on a coral reef",
+        "instruction": "Identify the hue of the small fish situated in the lower left corner.",
+        "answer": "The little fish in the lower left corner is yellow."
+    },
+    {
+        "img": "GCC_train_000031002.jpg",
+        "caption": "business cartoon about a supportive team",
+        "instruction": "How would you describe the view outside the window?",
+        "answer": "Mountains and grass are painted outside the window."
+    },
+    {
+        "img": "GCC_train_000059628.jpg",
+        "caption": "person , along with other faculty , took the stage and sang popular songs for the audience 's enjoyment .",
+        "instruction": "How does he express himself through his art?",
+        "answer": "He stood and sang with a red and white guitar."
+    },
+    {
+        "img": "GCC_train_000072769.jpg",
+        "caption": "sealed with a kiss : boxer celebrates in front of the fans",
+        "instruction": "Underneath Boxer, there are several individuals. What is their purpose for being there?",
+        "answer": "They are holding a microphone and a camera, they are journalists who want to interview a boxer"
+    },
+    {
+        "img": "GCC_train_000078785.jpg",
+        "caption": "teenagers in a bowling alley",
+        "instruction": "Identify the color of the bowling ball that the young boy with blonde hair is grasping.",
+        "answer": "The bowling ball that the blond boy is holding is orange"
+    },
+    {
+        "img": "GCC_train_000128960.jpg",
+        "caption": "bedside tables - think i could do this easily with the amount of pallets i have lying around !",
+        "instruction": "How does the bedside table enhance the functionality of a bedroom?",
+        "answer": "The bedside table has two layers, both of which can be used to place objects. The first layer is for desk lamps, photo frames, water glasses, notebooks and storage boxes, which can be placed on the second layer of the bedside table. With the bedside table, we can get things without getting out of bed."
+    },
+    {
+        "img": "GCC_train_000131977.jpg",
+        "caption": "athlete poses during the presentation .",
+        "instruction": "What lies beyond the athlete's attention?",
+        "answer": "Behind the athletes is the auditorium, but there are no spectators on it"
+    },
+    {
+        "img": "GCC_train_000177498.jpg",
+        "caption": "person sits to fill out her ballot at the community center -- once the - room schoolhouse -- as animal , vies for her attention .",
+        "instruction": "Can you describe the appearance of the small stool located beside the door?",
+        "answer": "The stool by the door is black."
+    },
+    {
+        "img": "GCC_train_000237349.jpg",
+        "caption": "baby child near the christmas tree , eating bagel",
+        "instruction": "Can you describe the appearance of the two gift boxes located in front of the child?",
+        "answer": "Two gift boxes in front of a child are white"
+    },
+    {
+        "img": "GCC_train_000380029.jpg",
+        "caption": "a member of the military speaks with exhibitors at the convention today .",
+        "instruction": "Can you describe the attire of the person positioned on the far right who is carrying a weapon?",
+        "answer": "He is wearing a black suit and a gas mask"
+    },
+    {
+        "img": "GCC_train_000428756.jpg",
+        "caption": "young girl playing with paper airplane in a park",
+        "instruction": "Describe the surroundings of the park.",
+        "answer": "Lush woods and lush meadows"
+    },
+    {
+        "img": "GCC_train_000436745.jpg",
+        "caption": "end of the year party",
+        "instruction": "Can you describe the object located on the black table to the far right?",
+        "answer": "A laptop is on the table with a lighted screen"
+    },
+    {
+        "img": "GCC_train_000439423.jpg",
+        "caption": "step : process to open the analysis normally this number should be click on analysis",
+        "instruction": "Can you identify the blue figure located at the bottom right corner?",
+        "answer": "The blue character style in the lower right corner is 'IMO'"
+    },
+    {
+        "img": "GCC_train_000453215.jpg",
+        "caption": "pop artist and celebrity attend show during fashion week .",
+        "instruction": "Can you identify the hair color of the woman located at the top left of the image?",
+        "answer": "she has black hair."
+    },
+    {
+        "img": "GCC_train_000462454.jpg",
+        "caption": "general view of a champagne bottle and glasses being arranged",
+        "instruction": "Can you describe the activity the man is currently engaged in?",
+        "answer": "He's folding a tissue so he can put it in a champagne flute"
+    },
+    {
+        "img": "GCC_train_000465781.jpg",
+        "caption": "capital letter k from white stripe enclosed in a square .",
+        "instruction": "How can you identify the watermark embedded in the picture?",
+        "answer": "The watermark in the image is 'shutterstock'"
+    },
+    {
+        "img": "GCC_train_000499449.jpg",
+        "caption": "a sign reading use of remote - control drones and helicopters prohibited inside the park is displayed at the entrance",
+        "instruction": "Describe the attire of the individual standing near the entrance of the park.",
+        "answer": "The man at the park gate was wearing a white hat and jeans."
+    },
+    {
+        "img": "GCC_train_000508571.jpg",
+        "caption": "skirt the ceiling woman wearing grey sheath dress for business formal",
+        "instruction": "What adornments can be observed on the woman's person?",
+        "answer": "She wore a necklace and a watch on her hand."
+    },
+    {
+        "img": "GCC_train_000532322.jpg",
+        "caption": "rolling up her sleeves : carried hefty bags over her shoulders , as well as a playful tote",
+        "instruction": "Identify the hues of the three vehicles located behind her.",
+        "answer": "The colors of the three cars are black, red and blue, respectively."
+    },
+    {
+        "img": "GCC_train_000538156.jpg",
+        "caption": "the fashion blog by yellow",
+        "instruction": "How is the background of the scene adorned?",
+        "answer": "Large green horse hooved in a round pool."
+    },
+    {
+        "img": "GCC_train_000570752.jpg",
+        "caption": "a city bus passing a parked fire truck under the elevated train tracks",
+        "instruction": "What is the emblem displayed on the fire truck?",
+        "answer": "It's an American national flag on the fire truck."
+    },
+    {
+        "img": "GCC_train_000572131.jpg",
+        "caption": "a canal boat entering one of locks",
+        "instruction": "What is the hue of the blouse worn by the woman standing on the shore?",
+        "answer": "The color of the woman standing on the shore wearing is blue."
+    },
+    {
+        "img": "GCC_train_000635000.jpg",
+        "caption": "i am obsessed and listen to music year round and i 'm a guy .",
+        "instruction": "How would you describe the background design in the printed text on the picture?",
+        "answer": "In the background is a large Christmas tree with a green ladder on the right with gift boxes on it."
+    },
+    {
+        "img": "GCC_train_000676013.jpg",
+        "caption": "animal with an experienced dog sitter ! dog sitter",
+        "instruction": "What objects are positioned in front of the stool located in the lower left corner?",
+        "answer": "Two iron bowls are placed in front of the stool in the lower left corner."
+    },
+    {
+        "img": "GCC_train_000686583.jpg",
+        "caption": "smiling little girl at home with a paper boat",
+        "instruction": "Identify the hue of the pillow located behind the girl.",
+        "answer": "The pillows is blue and gray."
+    },
+    {
+        "img": "GCC_train_002669855.jpg",
+        "caption": "big wheel by concert performance venue",
+        "instruction": "What is the atmospheric condition depicted in the picture?",
+        "answer": "the weather is cloudy in the picture"
+    },
+    {
+        "img": "GCC_train_000261728.jpg",
+        "caption": "harvest is a family affair .",
+        "instruction": "Can you identify the foliage in the background?",
+        "answer": "the plants in the background are trees with many green leaves"
+    },
+    {
+        "img": "GCC_train_002045110.jpg",
+        "caption": "athlete reacts after scoring his side 's first goal during the match .",
+        "instruction": "Can you describe the dynamic between the two athletes wearing red shirts and the athlete in a yellow shirt?",
+        "answer": "two athletes in red shirts and the athlete in a yellow shirt are rivals on the field"
+    },
+    {
+        "img": "GCC_train_002101871.jpg",
+        "caption": "laptop and a cup of coffee on office desk",
+        "instruction": "Where are the glasses located in relation to the computer?",
+        "answer": "the glasses is on top of computer"
+    },
+    {
+        "img": "GCC_train_002778199.jpg",
+        "caption": "person delivered a cool finish to give football team the lead over their rivals",
+        "instruction": "What is the current emotional state of the audience in the auditorium?",
+        "answer": "the audience in the auditorium are excited about the team's scoring"
+    },
+    {
+        "img": "GCC_train_002814908.jpg",
+        "caption": "natural beauty and charming colors in a vacation home",
+        "instruction": "Can you identify the hue of the chair located in the right-hand corner?",
+        "answer": "the chair in the right corner is brown"
+    },
+    {
+        "img": "GCC_train_002688771.jpg",
+        "caption": "laundry room - like the washer next to the sink and the drying racks above .",
+        "instruction": "What is the hue of the fabric situated in the topmost left corner?",
+        "answer": "the towel in the upper left corner is white"
+    },
+    {
+        "img": "GCC_train_002658652.jpg",
+        "caption": "the house is trimmed with native woods and all hand made on the premises .",
+        "instruction": "Can you describe the tint of the curtain located on the right-hand side?",
+        "answer": "the curtain on the right is blue"
+    },
+    {
+        "img": "GCC_train_002622765.jpg",
+        "caption": "college student texting in the library",
+        "instruction": "How are the girl in the red outfit and the boy in the blue outfit in the background connected?",
+        "answer": "the girl in red clothes and the boy in blue clothes sitting in the background are classmates studying together"
+    },
+    {
+        "img": "GCC_train_002604622.jpg",
+        "caption": "a rider gives final look back at the expansive landscapes and views that were plentiful throughout the entire week of racing .",
+        "instruction": "Describe the atmospheric conditions in the image.",
+        "answer": "the weather is cloudy"
+    },
+    {
+        "img": "GCC_train_002499857.jpg",
+        "caption": "actor and film scenes for television show",
+        "instruction": "What activity are the men on bicycles engaged in?",
+        "answer": "the men riding the bicycles are watching at the quarrel between two people"
+    },
+    {
+        "img": "GCC_train_002352196.jpg",
+        "caption": "line of people to the food truck",
+        "instruction": "In what hue is the building situated behind the food truck?",
+        "answer": "the color of the building behind the food truck is red"
+    },
+    {
+        "img": "GCC_train_001931964.jpg",
+        "caption": "spray used by a police officer .",
+        "instruction": "What is the activity being observed by the woman on the right?",
+        "answer": "the woman on the right is watching at the spray produced by the man on the left"
+    },
+    {
+        "img": "GCC_train_001744447.jpg",
+        "caption": "actor and celebrity arrive at the premiere",
+        "instruction": "Identify the shade of the carpet situated below the photo.",
+        "answer": "the color of the carpet is red"
+    },
+    {
+        "img": "GCC_train_001721107.jpg",
+        "caption": "you can shoot hoops downstairs from the garage in this basketball court.",
+        "instruction": "Which hues can be observed on the steps located towards the right?",
+        "answer": "the colors of stairs on the right are red"
+    },
+    {
+        "img": "GCC_train_001087549.jpg",
+        "caption": "how to dress like a russian in winter",
+        "instruction": "In what activity are the individuals located at the center engaged?",
+        "answer": "the people in the middle are wating for the bus"
+    },
+    {
+        "img": "GCC_train_000794407.jpg",
+        "caption": "collapse : as the show ended , person collapsed in the road , her face and hands covered in blood",
+        "instruction": "Which color does the car on the left display?",
+        "answer": "the color of the car on the left is black"
+    },
+    {
+        "img": "GCC_train_000768729.jpg",
+        "caption": "clear skies all round : temperatures are expected to rise to 26c today in parts of the country as blue skies finally appear",
+        "instruction": "Identify the hue of the wind turbine situated at the center.",
+        "answer": "the color of the wind generator in the middle is white"
+    },
+    {
+        "img": "GCC_train_000698598.jpg",
+        "caption": "after the remodel : the kitchen and dining room are bright and open .",
+        "instruction": "Provide information about the seating arrangement in the lower right corner",
+        "answer": "the color of the chair in the lower right corner is black"
+    },
+    {
+        "img": "GCC_train_000451687.jpg",
+        "caption": "men playing a game on a giant chess set",
+        "instruction": "What activity is the woman engaging in near the door?",
+        "answer": "the woman near the door is entering the room"
+    },
+    {
+        "img": "GCC_train_000235310.jpg",
+        "caption": "in bollywood film , performance had the ability to inject a sense of dignity and passion into the movie .",
+        "instruction": "Identify the hue of the fedora donned by the individual.",
+        "answer": "the color of the hat on the man's head is black"
+    },
+    {
+        "img": "GCC_train_002047250.jpg",
+        "caption": "alligator from the home of award winner .",
+        "instruction": "Describe the hue of the notification board that is located in the center.",
+        "answer": "the color of the notification board in the middle is red"
+    },
+    {
+        "img": "GCC_train_002142976.jpg",
+        "caption": "town square with railway station in the background and electric vehicles awaiting passengers",
+        "instruction": "Describe the activity of the bicyclist in the center of the scene.",
+        "answer": "the man in the middle riding a bicycle is talking to someone on the yellow bus"
+    },
+    {
+        "img": "GCC_train_002597982.jpg",
+        "caption": "boys and girls flirting on a rooftop party",
+        "instruction": "How is the woman on the left dressed and what is she doing?",
+        "answer": "the woman on the left wearing green clothes is looking at the sky and the sea"
+    },
+    {
+        "img": "GCC_train_002046445.jpg",
+        "caption": "statue of liberty and transit vehicle type",
+        "instruction": "Can you describe the hue of the daytime sky?",
+        "answer": "the color of the sky is orange"
+    }
+]
