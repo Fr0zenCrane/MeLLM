@@ -12,8 +12,17 @@ pip install -r requirement.txt
 ```
 ## Checkpoint of Mutimodal Encoders
 For OFA and BEiT3 encoder checkpoints, they can be obtained from the below wonderful projects:
+
 OFA: https://github.com/OFA-Sys/OFA
+
 BEiT3: https://github.com/microsoft/unilm/tree/master/beit3
+
+## Checkpoint of LLM
+The checkpoint of LLaMA2 and Vicuna can be obtained from their corresponding huggingface projects:
+
+LLaMA2:https://huggingface.co/meta-llama/Llama-2-7b-chat-hf
+
+Vicuna v1.5:https://huggingface.co/lmsys/vicuna-7b-v1.5
 
 ## Lauching Training
 Specify the checkpoints of multimodal encoders and LLM at 'run.sh', after that, you are able to launch the training by running it
